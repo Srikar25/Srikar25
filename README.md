@@ -7,16 +7,12 @@ Welcome to my GitHub portfolio! I specialize in **Python Scripts Development**, 
   <img src='src/output.png' width="500" height="500"/>
 </div>
 
-- 👀 I’m interested in developing Python projects
-- 💞️ I’m looking to collaborate for working on live projects 
-- 📫 How to reach me telegram id @Srikar_Uv
-
 ---
 
 ### 💻 Programming Languages & Tools
 
 <div align="center">
-<img src="src/python.svg" width="50" height="40"> <img src="src/visualstudiocode.svg" width="50" height="40"> <img src="src/PyCharm.svg" width="50" height="40"> <img src="src/pandas.svg" width="50" height="40"> <img src="src/jupyter.svg" width="50" height="40"> 
+<img src="src/python.svg" width="50" height="40"> <img src="src/pandas.svg" width="50" height="40"> <img src="src/jupyter.svg" width="50" height="40"> <img src="src/visualstudiocode.svg" width="50" height="40"> <img src="src/PyCharm.svg" width="50" height="40"> 
 </div>
 
 ### Database
@@ -56,3 +52,7 @@ This **Password Manager** is a secure and user-friendly application designed to 
 ### About Me
 
 Currently, I'm working as a **Python Developer** at [Renault Nissan Technology India](https://www.renaultgroup.com/) in their tech-focused subsidiary, contributing to innovative cloud migration and data processing solutions. Let's connect on [LinkedIn](https://www.linkedin.com/in/uppuluri-venkata-srikar/)!
+
+- 👀 I’m interested in developing Python projects
+- 💞️ I’m looking to collaborate for working on live projects 
+- 📫 How to reach me telegram id @Srikar_Uv
