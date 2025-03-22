@@ -19,7 +19,23 @@ Welcome to my GitHub portfolio! I specialize in **Python Scripts Development**, 
 <img src="src/python.svg" width="50" height="40"> <img src="src/visualstudiocode.svg" width="50" height="40"> <img src="src/pandas.svg" width="50" height="40"> <img src="src/jupyter.svg" width="50" height="40"> <img src="src/scikit-learn.svg" width="50" height="40">
 </div>
 
+### 🚀 Deployment & Cloud Services
+
+<div align="center">
+<img src="src/docker.svg" width="50" height="40"> <img src="src/streamlit.svg" width="50" height="40">
+</div>
+
+### 🌐 Cloud & Big Data
+
+<div align="center">
+<img src="src/gcp.svg" height="40">
+</div>
 <!---
 Srikar25/Srikar25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+---
+### About Me
+
+Currently, I'm working as a **Python Developer** at [Renault Nissan Technology India](https://www.renaultgroup.com/) in their tech-focused subsidiary, contributing to innovative cloud migration and data processing solutions. Let's connect on [LinkedIn](https://www.linkedin.com/in/uppuluri-venkata-srikar/)!
