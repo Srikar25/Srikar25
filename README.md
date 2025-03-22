@@ -34,6 +34,10 @@ Welcome to my GitHub portfolio! I specialize in **Python Scripts Development**, 
 Srikar25/Srikar25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+---
+### Projects
+1. [Password Manager](https://github.com/Srikar25/Password-Manager)
+This **Password Manager** is a secure and user-friendly application designed to help users generate, store, and retrieve strong passwords efficiently. Built using **Tkinter** for the GUI and **SQLite** for local storage, it ensures password security by encrypting them with **AES encryption (Fernet)**. Unlike traditional password managers, it does not store plaintext passwords in the database; instead, passwords are decrypted only when needed, enhancing security. With features like **search, delete, and password retrieval on demand**, this tool provides a reliable solution for managing credentials safely.
 
 ---
 ### About Me
