@@ -16,7 +16,13 @@ Welcome to my GitHub portfolio! I specialize in **Python Scripts Development**, 
 ### 💻 Programming Languages & Tools
 
 <div align="center">
-<img src="src/python.svg" width="50" height="40"> <img src="src/visualstudiocode.svg" width="50" height="40"> <img src="src/pandas.svg" width="50" height="40"> <img src="src/jupyter.svg" width="50" height="40"> <img src="src/scikit-learn.svg" width="50" height="40">
+<img src="src/python.svg" width="50" height="40"> <img src="src/visualstudiocode.svg" width="50" height="40"> <img src="src/PyCharm.svg" width="50" height="40"> <img src="src/pandas.svg" width="50" height="40"> <img src="src/jupyter.svg" width="50" height="40"> 
+</div>
+
+### Database
+
+<div align="center">
+<img src="src/PostgresSQL.svg" width="50" height="40"> <img src="src/SQLite.svg" width="50" height="40">
 </div>
 
 ### 🚀 Deployment & Cloud Services
@@ -25,10 +31,16 @@ Welcome to my GitHub portfolio! I specialize in **Python Scripts Development**, 
 <img src="src/docker.svg" width="50" height="40"> <img src="src/streamlit.svg" width="50" height="40">
 </div>
 
-### 🌐 Cloud & Big Data
+### Version control
 
 <div align="center">
-<img src="src/gcp.svg" height="40">
+<img src="src/Git.svg" width="50" height="40"> <img src="src/GitLab.svg" width="50" height="40">
+</div>
+
+### 🌐 Cloud & ML & Analytics
+
+<div align="center">
+<img src="src/gcp.svg" height="40"> <img src="src/scikit-learn.svg" width="50" height="40"> <img src="src/Matplotlib.svg" width="50" height="40">
 </div>
 <!---
 Srikar25/Srikar25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
