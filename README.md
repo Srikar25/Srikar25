@@ -34,6 +34,7 @@ Welcome to my GitHub portfolio! I specialize in **Python Scripts Development**, 
 Srikar25/Srikar25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
 ---
 ### Projects
 1. [Password Manager](https://github.com/Srikar25/Password-Manager)
