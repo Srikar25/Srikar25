@@ -48,6 +48,9 @@ You can click the Preview link to take a look at your changes.
 - **[Password Manager](https://github.com/Srikar25/Password-Manager)**
 This **Password Manager** is a secure and user-friendly application designed to help users generate, store, and retrieve strong passwords efficiently. Built using **Tkinter** for the GUI and **SQLite** for local storage, it ensures password security by encrypting them with **AES encryption (Fernet)**. Unlike traditional password managers, it does not store plaintext passwords in the database; instead, passwords are decrypted only when needed, enhancing security. With features like **search, delete, and password retrieval on demand**, this tool provides a reliable solution for managing credentials safely.
 
+- **[Web-based credentials Authentication & Authorization](https://github.com/Srikar25/Flask_Authentication-Authorization_App)**
+This project is a **Flask-based Authentication and Authorization System** that enables users to register, log in, and access a protected dashboard securely. It uses **Flask, PostgreSQL, SQLAlchemy, Flask-Session, and Bcrypt** to manage user authentication, session handling, and password security. The frontend is built with **HTML and CSS**, ensuring a user-friendly interface. The system enforces access control, allowing only authenticated users to view restricted pages, making it a beginner-friendly yet secure implementation of authentication in Flask. 🚀
+
 ---
 ### About Me
 
